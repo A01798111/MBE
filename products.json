@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Chal Artesanal de Lana Merina",
+    "category": "Prendas",
+    "price": 1250,
+    "originalPrice": 1450,
+    "rating": 5.0,
+    "reviewsCount": 28,
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&auto=format&fit=crop&q=80",
+    "badge": "Hecho a mano",
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 6,
+    "artisan": "Doña Esperanza (74 años)",
+    "description": "Chal amplio tejido con técnicas tradicionales, utilizando lana merina de tacto ultra suave y cálido. Cada puntada representa horas de paciencia y devoción artesanal.",
+    "features": [
+      "100% Lana Merina natural",
+      "Tejido a dos agujas en punto calado",
+      "22 horas de trabajo manual dedicado",
+      "Tintes naturales respetuosos con el ambiente"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cojín Decorativo en Punto Trenzado",
+    "category": "Hogar",
+    "price": 680,
+    "originalPrice": null,
+    "rating": 4.9,
+    "reviewsCount": 19,
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=800&auto=format&fit=crop&q=80",
+    "badge": "Más querido",
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 9,
+    "artisan": "Don Fernando (71 años)",
+    "description": "Cojín tejido artesanalmente con trama de ochos gruesos que aporta textura, serenidad y confort tradicional a tu sala o dormitorio.",
+    "features": [
+      "Funda tejida en algodón y lana gruesa",
+      "Relleno hipoalergénico esponjoso",
+      "Cierre posterior discreto y lavable",
+      "Dimensiones: 45 x 45 cm"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bufanda Infinita Suave Otoñal",
+    "category": "Accesorios",
+    "price": 520,
+    "originalPrice": 590,
+    "rating": 4.95,
+    "reviewsCount": 34,
+    "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=800&auto=format&fit=crop&q=80",
+    "badge": "Tradición",
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 12,
+    "artisan": "Doña Rosa (69 años)",
+    "description": "Bufanda circular en tonos cálidos y acogedores, tejida a mano para proporcionar abrigo reconfortante en los días frescos con una textura que no pica.",
+    "features": [
+      "Mezcla de lana suave y algodón orgánico",
+      "Diseño circular sin costuras duras",
+      "Tejida en telar de bastidor tradicional",
+      "Lavable en agua fría a mano"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Manta de Sillón en Crochet Texturizado",
+    "category": "Hogar",
+    "price": 1850,
+    "originalPrice": 2100,
+    "rating": 5.0,
+    "reviewsCount": 15,
+    "image": "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6?w=800&auto=format&fit=crop&q=80",
+    "badge": "Edición Limitada",
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 4,
+    "artisan": "Doña Carmen (78 años)",
+    "description": "Manta ligera y abrigadora con motivos florales de crochet entrelazados. Una pieza patrimonial que llena de historia el hogar.",
+    "features": [
+      "Hilo de algodón 100% de cultivo local",
+      "Motivos tradicionales en relieve",
+      "Terminaciones con flecos hechos a mano",
+      "Dimensiones: 130 x 170 cm"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gorro Clásico con Dobladillo Acanalado",
+    "category": "Accesorios",
+    "price": 380,
+    "originalPrice": null,
+    "rating": 4.85,
+    "reviewsCount": 22,
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=800&auto=format&fit=crop&q=80",
+    "badge": "Nuevo",
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 15,
+    "artisan": "Don Alberto (73 años)",
+    "description": "Gorro tejido con elasticidad natural y acabado acanalado que se ajusta con suavidad a la cabeza sin apretar.",
+    "features": [
+      "Lana de borrego de primera esquila",
+      "Doble capa en el contorno de orejas",
+      "Resistente al uso diario",
+      "Talla única adaptable"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cárdigan Rústico con Botones de Madera",
+    "category": "Prendas",
+    "price": 1790,
+    "originalPrice": 1980,
+    "rating": 4.95,
+    "reviewsCount": 11,
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800&auto=format&fit=crop&q=80",
+    "badge": "Obra Maestra",
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 3,
+    "artisan": "Doña Teresa (76 años)",
+    "description": "Suéter abierto tejido a mano con bolsillos frontales y botones de madera de encino tallados a mano. Belleza y sobriedad atemporal.",
+    "features": [
+      "Lana virgen sin tratamientos químicos",
+      "Botones tallados en madera natural",
+      "Estructura reforzada en cuello y puños",
+      "Más de 35 horas de labor artesanal"
+    ]
+  }
+]
